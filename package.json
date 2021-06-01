@@ -21,6 +21,6 @@
   "homepage": "https://github.com/sham-ui/sham-ui-templates-loader#readme",
   "dependencies": {
     "loader-utils": "^1.1.0",
-    "sham-ui-templates": "^5.0.0-alpha.1"
+    "sham-ui-templates": "^5.0.0-alpha.6"
   }
 }
